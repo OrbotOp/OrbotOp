@@ -1,5 +1,11 @@
 # 💫 About Me:
-<br>As a graduate student in Robotics at Northeastern University, I am deeply passionate about the intersection of innovation and technology. With my experience in project management, design, and problem-solving, I am constantly seeking out new ways to advance robotics applications in real-world challenges. My interests lie particularly in the exciting fields of autonomous vehicles and computer vision applications, which have the potential to revolutionize the way we interact with technology. I am always eager to learn, grow, and connect with like-minded individuals, and am open to new opportunities and collaborations that can help drive progress in this field.
+<br>🤖 Passionate about Robotics and AI | 🌟 Transforming Concepts into Creations | 👨‍🎓 Graduate from Northeastern University 🎓
+📍 Boston, MA | 📧 hrithikkanoje@outlook.com
+
+Hello! I'm Hrithik Kanoje, a dedicated robotics and AI enthusiast with a Master’s degree from Northeastern University. My academic and professional journey has been driven by a deep curiosity and a relentless pursuit of innovation. As a research assistant at Northeastern University, I have delved into the fascinating worlds of Computer Vision, Deep Learning, Robotics, and Generative AI.
+
+🤝 Let’s Connect:
+I am always eager to connect with fellow tech enthusiasts, AI researchers, and anyone passionate about cutting-edge technology and innovation. Feel free to reach out! 🤖
 
 
 ## 🌐 Socials:
